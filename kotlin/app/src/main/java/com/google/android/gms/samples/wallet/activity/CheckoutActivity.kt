@@ -21,7 +21,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.text.Html
 import android.util.Log
-import com.google.android.gms.samples.wallet.PaymentsUtil
+import com.google.android.gms.samples.wallet.util.PaymentsUtil
 import com.google.android.gms.samples.wallet.R
 import com.google.android.gms.samples.wallet.util.Json
 import com.google.android.gms.wallet.AutoResolveHelper
